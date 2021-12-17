@@ -1,4 +1,4 @@
 # Title
 ## Subtitle
 
-I finish the bounty!
+I did something awesome for a DAO!
