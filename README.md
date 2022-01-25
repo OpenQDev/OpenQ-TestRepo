@@ -1,4 +1,4 @@
 # Title
 ## Subtitle
 
-I did something awesome for a EthDenver!
+I did something awesome for a DAO!
