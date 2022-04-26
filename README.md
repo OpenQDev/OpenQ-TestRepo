@@ -18,5 +18,4 @@ sdfsdf
 sdfsdfsdf
 thanks for the lisdfnk?sdf
 Only langiksdf
-sdfsdf
 sdf
