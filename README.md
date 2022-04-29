@@ -16,6 +16,3 @@ sdf
 sdfsdfsdf
 sdfsdfsdf
 sdfsdfsdf
-thanks for the lisdfnk?sdf
-Only langiksdf
-sdf
