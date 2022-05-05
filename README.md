@@ -10,3 +10,4 @@ change
 Ghandi
 india
 continent
+tectonic
