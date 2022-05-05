@@ -11,3 +11,4 @@ Ghandi
 india
 continent
 tectonic
+plates
