@@ -17,4 +17,3 @@ shawarma
 radishes
 gooseberies
 honking
-car
