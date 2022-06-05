@@ -30,4 +30,3 @@ boston
 Red Sox
 The BEST
 Ortiz
-shot
