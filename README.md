@@ -54,3 +54,4 @@ linux
 windows
 open
 close
+game
