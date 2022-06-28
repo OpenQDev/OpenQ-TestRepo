@@ -53,3 +53,4 @@ yum
 linux
 windows
 open
+close
