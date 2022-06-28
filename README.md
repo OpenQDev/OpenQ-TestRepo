@@ -52,3 +52,4 @@ peas
 yum
 linux
 windows
+open
