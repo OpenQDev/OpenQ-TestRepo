@@ -56,3 +56,4 @@ open
 close
 game
 ball
+hit
