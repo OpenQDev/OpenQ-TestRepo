@@ -58,4 +58,3 @@ game
 ball
 hit
 bat
-coronavirus
