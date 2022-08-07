@@ -73,4 +73,3 @@ damage
 flood
 water
 dehydration
-bad
