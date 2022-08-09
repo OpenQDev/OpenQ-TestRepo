@@ -1,4 +1,4 @@
-# 🎆 THANK YOU FOR INTEGRATION TESTING!!! 🎆
+# 🎆 THANK YOU FOR INTEGRATION TESTING! 🎆
 
 ## Word Association Game
 
@@ -57,4 +57,20 @@ close
 game
 ball
 hit
-it
+catch
+bat
+softball
+this is the second baseball loop
+Do Kwon
+Who
+Doctor
+Terra (non)peg
+failure
+Stephen
+He
+emotional
+damage
+flood
+water
+dehydration
+thirst
