@@ -75,3 +75,4 @@ water
 dehydration
 thirst
 hunger
+starvation
