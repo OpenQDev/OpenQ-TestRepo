@@ -76,3 +76,4 @@ dehydration
 thirst
 hunger
 starvation
+brighter
