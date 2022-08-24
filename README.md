@@ -92,4 +92,3 @@ danger
 tape
 worm
 dragon
-thrones
