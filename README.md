@@ -94,3 +94,4 @@ worm
 dragon
 Smaug
 Dwarves
+elves
