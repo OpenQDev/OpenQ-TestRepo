@@ -97,3 +97,4 @@ Dwarves
 elf
 eyes
 see
+blind
