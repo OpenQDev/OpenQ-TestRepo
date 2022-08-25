@@ -95,4 +95,3 @@ dragon
 Smaug
 Dwarves
 elf
-merry
