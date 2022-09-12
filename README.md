@@ -105,4 +105,4 @@ cartoon
 network
 news
 catastrophe
-bronze
+bronzea
