@@ -108,3 +108,4 @@ catastrophe
 bronze
 age
 world
+earth
