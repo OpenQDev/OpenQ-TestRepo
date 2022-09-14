@@ -113,3 +113,4 @@ soil
 dirty
 fuel
 gas
+diesel
