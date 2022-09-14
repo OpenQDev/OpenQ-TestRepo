@@ -114,3 +114,4 @@ dirty
 fuel
 gas
 diesel
+cost
