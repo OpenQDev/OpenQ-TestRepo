@@ -115,3 +115,4 @@ fuel
 gas
 diesel
 cost
+living
