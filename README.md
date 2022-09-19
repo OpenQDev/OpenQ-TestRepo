@@ -74,4 +74,47 @@ flood
 water
 dehydration
 thirst
+coffee
+coffeee
+morning
+yerba mate
+Guayaki
+patagonia
+VCs
+gavin belsin
+silicon
+valley
+hill
+mountain
+Everest
+summited
+danger
+tape
+worm
+dragon
+Smaug
+Dwarves
+elf
+eyes
+see
+blind
+mice
+cat
+Tom and Jerry
+cartoon
+network
+news
+catastrophe
+bronze
+age
+world
+earth
+soil
+dirty
+fuel
+gas
+diesel
+cost
+living
+well
 java
