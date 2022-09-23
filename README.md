@@ -119,3 +119,4 @@ living
 well
 water
 fire
+earth
