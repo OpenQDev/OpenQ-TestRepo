@@ -122,3 +122,5 @@ fire
 earth
 meteor
 planet
+comet
+
