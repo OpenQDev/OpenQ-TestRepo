@@ -121,4 +121,6 @@ water
 fire
 earth
 meteor
+planet
 comet
+
