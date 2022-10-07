@@ -131,3 +131,4 @@ color
 cooler
 water
 fire
+hot
