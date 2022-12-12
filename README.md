@@ -159,3 +159,4 @@ play
 questioning
 find
 mistakes
+hurt
