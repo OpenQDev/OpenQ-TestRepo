@@ -170,3 +170,4 @@ wil
 intel
 scared
 fearless
+no capitulation
