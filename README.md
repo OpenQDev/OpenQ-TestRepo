@@ -186,4 +186,3 @@ diamond
 rough
 neck
 red
-blue
