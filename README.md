@@ -36,17 +36,7 @@ Jays
 Vlady
 Beau
 zzz
-sleep
-in
-uh oh
-run!
-walk
-talk
-much
-good
-Levin
-Kitty
-confusion
+
 mind
 matter
 mush
