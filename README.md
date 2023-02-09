@@ -2,28 +2,7 @@
 
 ## Word Association Game
 
-### Write whatever word comes to mind when you see the LAST word in the list. I'll start.
-
-environment
-climate
-change
-test
-Ghandi
-india
-continent
-tectonic
-plates
-restaurant
-shawarma
-radishes
-gooseberies
-honking
-dnidiw
-cardd
-Tesla
-Elon
-Musk
-Twitter
+### Write whatever word comes 
 Leave!
 Britain
 Ships
