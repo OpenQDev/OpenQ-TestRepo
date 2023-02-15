@@ -32,16 +32,7 @@ boston
 Red Sox
 The BEST
 Ortiz
-Jays
-Vlady
-Beau
-zzz
 
-mind
-matter
-mush
-peas
-yum
 linux
 windows
 open
