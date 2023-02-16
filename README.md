@@ -177,3 +177,4 @@ rough
 neck
 red
 blue
+equity
