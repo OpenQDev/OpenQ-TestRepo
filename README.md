@@ -9,12 +9,6 @@ climate
 change
 test
 Ghandi
-india
-continent
-tectonic
-plates
-restaurant
-shawarma
 radishes
 gooseberies
 honking
