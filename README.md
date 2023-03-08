@@ -4,14 +4,6 @@
 
 ### Write whatever word comes to mind when you see the LAST word in the list. I'll start.
 
-environment
-climate
-change
-test
-Ghandi
-radishes
-gooseberies
-honking
 dnidiw
 cardd
 Tesla
