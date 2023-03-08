@@ -18,16 +18,7 @@ Tesla
 Elon
 Musk
 Twitter
-Leave!
-Britain
-Ships
-tea
-boston
-Red Sox
-The BEST
-Ortiz
-Jays
-Vlady
+
 Beau
 zzz
 
