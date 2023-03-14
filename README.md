@@ -7,9 +7,6 @@
 environment
 climate
 change
-test
-Ghandi
-radishes
 gooseberies
 honking
 dnidiw
