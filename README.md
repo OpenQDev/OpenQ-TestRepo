@@ -11,16 +11,6 @@ radishes
 gooseberies
 honking
 dnidiw
-cardd
-Tesla
-Elon
-Musk
-boston
-Red Sox
-The BEST
-Ortiz
-Jays
-Vlady
 Beau
 zzz
 
