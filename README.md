@@ -13,7 +13,6 @@ honking
 dnidiw
 cardd
 Tesla
-Elon
 Musk
 boston
 Red Sox
