@@ -162,6 +162,5 @@ hold
 diamond
 rough
 neck
-red
 blue
 d
