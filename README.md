@@ -6,28 +6,14 @@
 
 environment
 climate
-change
-test
 Ghandi
-india
-continent
-tectonic
-plates
-restaurant
-shawarma
 radishes
 gooseberies
 honking
 dnidiw
 cardd
 Tesla
-Elon
 Musk
-Twitter
-Leave!
-Britain
-Ships
-tea
 boston
 Red Sox
 The BEST
@@ -36,17 +22,7 @@ Jays
 Vlady
 Beau
 zzz
-sleep
-in
-uh oh
-run!
-walk
-talk
-much
-good
-Levin
-Kitty
-confusion
+
 mind
 matter
 mush
@@ -187,4 +163,4 @@ rough
 neck
 red
 blue
-:(
+grey
