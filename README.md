@@ -26,8 +26,6 @@ zzz
 mind
 matter
 mush
-peas
-yum
 linux
 windows
 open
