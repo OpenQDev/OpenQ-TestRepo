@@ -161,4 +161,3 @@ rough
 neck
 red
 blue
-grey
