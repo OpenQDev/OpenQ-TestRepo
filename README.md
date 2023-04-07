@@ -12,13 +12,6 @@ gooseberies
 honking
 dnidiw
 cardd
-Tesla
-Musk
-boston
-Red Sox
-The BEST
-Ortiz
-Jays
 Vlady
 Beau
 zzz
