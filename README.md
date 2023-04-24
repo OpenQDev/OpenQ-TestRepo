@@ -10,10 +10,7 @@ Ghandi
 radishes
 gooseberies
 honking
-dnidiw
-cardd
-Tesla
-Musk
+
 boston
 
 
