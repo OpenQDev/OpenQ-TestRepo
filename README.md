@@ -14,7 +14,6 @@ dnidiw
 cardd
 Tesla
 Musk
-boston
 
 
 mind
