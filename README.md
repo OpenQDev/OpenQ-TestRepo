@@ -22,7 +22,6 @@ matter
 mush
 peas
 yum
-linux
 windows
 open
 close
