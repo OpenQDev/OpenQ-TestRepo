@@ -9,7 +9,7 @@ climate
 Ghandi
 radishes
 gooseberies
-honking
+
 dnidiw
 cardd
 Tesla
