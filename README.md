@@ -26,12 +26,6 @@ linux
 windows
 open
 close
-game
-ball
-hit
-catch
-bat
-softball
 this is the second baseball loop
 Do Kwon
 Who
