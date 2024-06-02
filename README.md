@@ -65,14 +65,6 @@ dragon
 Smaug
 Dwarves
 elf
-eyes
-see
-blind
-mice
-cat
-Tom and Jerry
-cartoon
-network
 news
 catastrophe
 bronze
