@@ -153,6 +153,5 @@ hold
 diamond
 rough
 neck
-red
 blue
 grey
