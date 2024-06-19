@@ -161,3 +161,4 @@ stone
 dwarf
 elf
 tree
+wood
