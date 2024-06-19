@@ -158,3 +158,4 @@ blue
 grey
 rock
 stone
+dwarf
