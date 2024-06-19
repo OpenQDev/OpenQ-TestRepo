@@ -157,3 +157,4 @@ red
 blue
 grey
 rock
+stone
